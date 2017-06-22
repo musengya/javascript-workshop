@@ -1,0 +1,12 @@
+{
+    "root": true,
+    "extends": [
+        // Base rules with full ES2015 support
+        "peerigon",
+        // Legacy rules for node
+        "peerigon/node"
+    ],
+    "rules": {
+        "callback-return": 0
+    }
+}

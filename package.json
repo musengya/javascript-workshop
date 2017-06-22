@@ -1,0 +1,15 @@
+{
+  "name": "musengya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint ./*/**.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-peerigon": "^11.2.0"
+  }
+}
