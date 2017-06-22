@@ -2,7 +2,7 @@
 "use strict";
 
 const firstName = "Irene";
-const lastName = "Sande";
+const lastName = "Anto";
 
 if (firstName === "Irene") {
     if (lastName === "Mutua") {
